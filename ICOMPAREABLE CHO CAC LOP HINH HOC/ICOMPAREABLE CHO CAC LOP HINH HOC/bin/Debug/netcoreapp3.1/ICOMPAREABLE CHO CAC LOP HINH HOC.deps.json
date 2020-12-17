@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ICOMPAREABLE CHO CAC LOP HINH HOC/1.0.0": {
+        "runtime": {
+          "ICOMPAREABLE CHO CAC LOP HINH HOC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ICOMPAREABLE CHO CAC LOP HINH HOC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

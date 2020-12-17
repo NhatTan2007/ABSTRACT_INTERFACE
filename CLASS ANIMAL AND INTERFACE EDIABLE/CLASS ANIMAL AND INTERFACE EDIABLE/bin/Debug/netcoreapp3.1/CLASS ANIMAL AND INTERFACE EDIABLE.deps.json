@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CLASS ANIMAL AND INTERFACE EDIABLE/1.0.0": {
+        "runtime": {
+          "CLASS ANIMAL AND INTERFACE EDIABLE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CLASS ANIMAL AND INTERFACE EDIABLE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

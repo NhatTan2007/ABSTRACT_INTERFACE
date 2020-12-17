@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ANIMAL_MANAGEMENT_SYSTEM/1.0.0": {
+        "runtime": {
+          "ANIMAL_MANAGEMENT_SYSTEM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ANIMAL_MANAGEMENT_SYSTEM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

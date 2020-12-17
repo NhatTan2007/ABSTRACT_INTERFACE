@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>ICOMPAREABLE_CHO_CAC_LOP_HINH_HOC</RootNamespace>
+  </PropertyGroup>
+
+</Project>

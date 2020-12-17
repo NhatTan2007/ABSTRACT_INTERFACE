@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>TRIEN_KHAI_INTERFACE_ICOLORABLE</RootNamespace>
+    <StartupObject>TRIEN_KHAI_INTERFACE_ICOLORABLE.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>
